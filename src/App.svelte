@@ -57,4 +57,8 @@
   .filtros button { background: transparent; border: 1px solid #555; color: #ccc; padding: 5px 15px; border-radius: 20px; cursor: pointer; }
   .filtros button.activo { background: #646cff; color: white; border-color: #646cff; }
   ul { list-style: none; padding: 0; }
+  h1 {
+    color: #ff3e00; /* Naranja oficial de Svelte */
+    text-align: center;
+  }
 </style>
